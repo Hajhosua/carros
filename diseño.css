@@ -1,0 +1,27 @@
+h1{
+    margin-left: 600px;
+    color: rgb(0, 0, 55);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    margin-left: 200px;
+    margin: 100PX;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 55);
+    
+}
+
+body{
+    background-color: rgb(92, 180, 190);
+}
+
+img{
+    width: 400px;
+    margin-left: 500px;
+}
+
+img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
